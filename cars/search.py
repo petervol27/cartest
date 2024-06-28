@@ -2,7 +2,7 @@ def search_car(cars):
     while True:
         search_results = []
         choice = input(
-            "to search by make or model enter 0, by year 1,2 by VIN and by problems 3: "
+            "to search by make or model enter 0, by year 1, 2 by VIN and 3 by problems: "
         )
         if choice == "0":
             search_term = input("enter your search query: ")
