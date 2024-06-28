@@ -1,3 +1,4 @@
+To run the program you must be in the app.py file, otherwise it will not RUN!!!!
 -actions include the add, delete and list functions 
 -using a json I load the cars dictionary from the cars.json file which I make sure to create in the load function 
 -I use the save function upon exit from the program to update the json file 
